@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at Washington University in St. Louis. I will be on the job market during the 2023-24 academic year. You can reach me at singh.kuldeep@wustl.edu.
+I am a Ph.D. candidate in Economics at Washington University in St. Louis. I will be on the job market during the 2023-24 academic year. You can reach me at [singh.kuldeep@wustl.edu](singh.kuldeep@wustl.edu).
 
 My research focuses on macroeconomics and macroeconomic development.
 
