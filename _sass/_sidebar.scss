@@ -26,6 +26,9 @@
 
 
   @include breakpoint($x-large) {
+    .sidebar {
+      width: 400px; /* Adjust the width as per your requirements */
+    }
     padding-right: 0;
   }
 
@@ -83,7 +86,7 @@
   }
 
   img {
-    max-width: 200px;
+    max-width: 400px;
     // border-radius: 50%;
 
     @include breakpoint($large) {
