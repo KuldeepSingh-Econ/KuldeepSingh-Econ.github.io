@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://kuldeepsingh-econ.github.io/files/cv.pdf)
+[Download CV here](https://kuldeepsingh-econ.github.io/files/cv.pdf)
 
 <!-- 
 Education
