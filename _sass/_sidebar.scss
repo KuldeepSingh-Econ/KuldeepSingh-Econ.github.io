@@ -27,7 +27,7 @@
 
   @include breakpoint($x-large) {
     .sidebar {
-      width: 600px; /* Adjust the width as per your requirements */
+      width: 400px; /* Adjust the width as per your requirements */
     }
     padding-right: 0;
   }
@@ -58,7 +58,8 @@
   @include breakpoint($large) {
     position: relative;
     float: right;
-    width: $right-sidebar-width-narrow;
+    //width: $right-sidebar-width-narrow;
+    width: 400px;
     margin-left: span(0.5 of 12);
     z-index: 10;
   }
