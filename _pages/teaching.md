@@ -7,12 +7,12 @@ author_profile: true
 
 ## Instructor
 
-* **Introduction to Macroeconomics** _(Summer 2019)_ 
-Course Rating (Based on 2 out of 9 student responses): 
+* **Introduction to Macroeconomics** _(Summer 2019)_ <br>
+Course Rating (Based on 2 out of 9 student responses):3.5/5 <br>
 <span style="opacity: 0.5; font-style: italic;">Please reach out for detailed evaluations</span>
 
-* **Intermediate Macroeconomics** _(Spring 2023)_ 
-Course Rating (Based on 2 out of 9 student responses): 
+* **Intermediate Macroeconomics** _(Spring 2023)_ <br>
+Course Rating (Based on 2 out of 9 student responses): 4.4/5 <br>
 <span style="opacity: 0.5; font-style: italic;">Please reach out for detailed evaluations</span>
 
 ## Teaching Assistant
