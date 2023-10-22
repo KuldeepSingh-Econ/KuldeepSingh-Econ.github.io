@@ -12,7 +12,7 @@ Course Rating (Based on 2 out of 9 student responses):3.5/5 <br>
 <span style="opacity: 0.5; font-style: italic;">Detailed evaluations available upon request</span>
 
 * **Intermediate Macroeconomics** _(Spring 2023)_ <br>
-Course Rating (Based on 2 out of 9 student responses): 4.4/5 <br>
+Course Rating (Based on 16 out of 21 student responses): 4.4/5 <br>
 <span style="opacity: 0.5; font-style: italic;">Detailed evaluations available upon request</span>
 
 ## Teaching Assistant
