@@ -7,7 +7,19 @@ author_profile: true
 
 ## Instructor
 
-<style>
+* **Introduction to Macroeconomics** _(Summer 2019)_ Course Rating (Based on 2 out of 9 student responses): 
+* **Intermediate Macroeconomics** _(Spring 2023)_ Course Rating (Based on 2 out of 9 student responses): 
+
+## Teaching Assistant
+
+* **Graduate Macroeconomics** _(Fall 2018, Spring 2019)_
+* **Introduction to Macroeconomics** _(Fall 2019, Spring 2020)_
+
+## Guest Lecturer
+
+* **Economic Growth (Graduate course)** _(Fall 2020, Fall 2021, Fall 2022)_
+
+<!-- <style>
 table {
   font-family: Arial, sans-serif;
   border-collapse: collapse;
@@ -28,21 +40,21 @@ th {
 
 <table>
   <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
-    <th>Header 3</th>
+    <th>Course</th>
+    <th>Evaluation</th>
+    <th>Year</th>
   </tr>
   <tr>
-    <td>Row 1, Col 1</td>
-    <td>Row 1, Col 2</td>
-    <td>Row 1, Col 3</td>
+    <td>Introduction to Macroeconomic</td>
+    <td>Spring 2023</td>
+    <td>Spring 2023</td>
   </tr>
   <tr>
-    <td>Row 2, Col 1</td>
-    <td>Row 2, Col 2</td>
-    <td>Row 2, Col 3</td>
+    <td>Introduction to Macroeconomic</td>
+    <td>Summer 2019</td>
+    <td>Summer 2019</td>
   </tr>
-</table>
+</table> -->
 
 
 
