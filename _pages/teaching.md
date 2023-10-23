@@ -22,7 +22,9 @@ Course Rating (Based on 16 out of 21 student responses): 4.4/5 <br>
 
 ## Guest Lecturer
 
-* **Economic Growth (Graduate course)** _(Fall 2020, Fall 2021, Fall 2022)_
+* **Economic Growth (Graduate course)** _(Fall 2020, Fall 2021, Fall 2022)_<br>
+<span style="opacity: 0.7; font-style: italic;">Numerical Computation with Markov Chain Approximation Methods</span>
+
 
 <!-- <style>
 table {
