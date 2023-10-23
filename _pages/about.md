@@ -10,7 +10,9 @@ redirect_from:
 
 I am a Ph.D. candidate in Economics at Washington University in St. Louis. I will be on the job market during the 2023-24 academic year. You can reach me at [singh.kuldeep@wustl.edu](singh.kuldeep@wustl.edu).
 
-My research focuses on macroeconomics and macroeconomic development.
+I am a macroeconomist specializing in issues related to developing economies. In particular, I study the aggregate and distributional implications of large-scale policies, and other theoretical issues relevant for developing countries.
+
+<!-- My research focuses on macroeconomics and macroeconomic development. -->
 
 <!-- 
 
