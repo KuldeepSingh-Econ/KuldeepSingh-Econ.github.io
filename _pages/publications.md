@@ -9,7 +9,7 @@ author_profile: true
 <!-- ## Social Science -->
 ___
 * **Universal Basic Income for Developing Economies** ***(Job Market Paper)*** <br>
-_Draft coming soon_ <br>
+<a href="https://github.com/KuldeepSingh-Econ/JMP/blob/main/JMP_singh_kuldeep.pdf" target="_blank" rel="noopener"> [pdf] </a> <br>
 _Abstract:_ Universal Basic Income (UBI) has gained traction as an anti-poverty policy for developing economies, but financing it poses challenges due to the vast informal sector that remains outside the income tax net. This paper analyzes the feasibility of financing UBI under alternative financing schemes and studies the long-term aggregate and distributional effects of UBI in developing countries. I build a general equilibrium life cycle model with incomplete markets that incorporates the decision to work in either the formal or informal sector. After calibrating it to Indian data, I find that a UBI equal to half the international poverty line cannot be financed through labor income taxes. An increase in labor income tax shrinks the formal sector, decreases labor supply and reduces human capital accumulation, ultimately leading to reduced tax revenues. Financing UBI via consumption taxes is feasible but results in lower output, capital, and aggregate labor, as well as an increase in income and wealth inequality. Furthermore, I highlight that UBI and taxes have opposing effects on the size of the formal sector.
 
 
