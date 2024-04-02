@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at Washington University in St. Louis. I will be joining the [Department of Economics at the Indian Institute of Management Bangalore](https://www.iimb.ac.in/economics) in Fall 2024. You can reach me at [singh.kuldeep@wustl.edu](singh.kuldeep@wustl.edu).
+I am a Ph.D. candidate in Economics at Washington University in St. Louis. I will be joining the Department of Economics at the [Indian Institute of Management Bangalore](https://www.iimb.ac.in/economics) in Fall 2024. You can reach me at [singh.kuldeep@wustl.edu](singh.kuldeep@wustl.edu).
 
 I am a macroeconomist who focuses on issues related to developing economies.  In my research, I study the aggregate and distributional implications of large-scale policies, as well as other theoretical issues relevant for developing countries.
 
