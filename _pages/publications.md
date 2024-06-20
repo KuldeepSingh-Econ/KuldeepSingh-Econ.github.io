@@ -41,11 +41,11 @@ author_profile: true
   }
 
   .link-container a {
-    margin-right: 5px;
+    margin-right: 2px;
   }
   
   .link-container {
-    margin-bottom: 10px;
+    margin-bottom: 2px;
   }
 </style>
 
