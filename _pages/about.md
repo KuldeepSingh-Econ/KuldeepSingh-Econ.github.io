@@ -10,10 +10,6 @@ redirect_from:
 
 I am an Assistant Professor of Economics at the [Indian Institute of Management Bangalore](https://www.iimb.ac.in/economics). I am a macroeconomist who focuses on issues related to developing economies. You can reach me at [kuldeep.singh@iimb.ac.in](mailto:kuldeep.singh@iimb.ac.in).
 
-<div style="text-align: center; padding: 10px; font-size: 0.9em; color: #555; margin-top: 20px;">
-    <strong>Currently, I am not hiring interns.</strong> Due to the high volume of such inquiries, I am unable to respond individually to each request. Thank you for your understanding.
-</div>
-
 <!-- My research focuses on macroeconomics and macroeconomic development. -->
 
 <!-- 
