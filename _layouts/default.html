@@ -16,15 +16,15 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <!-- Page content -->
-    <main>
-      {{ content }}
-    </main>
+    <!-- Main content -->
+    {{ content }}
 
-    <!-- Message to display at the bottom of the page -->
-    <div style="text-align: center; padding: 10px; font-size: 0.9em; color: #555; margin-top: 20px;">
+    <!-- Message at the bottom, aligned with content -->
+    {% if page.url == "/" %}
+    <div style="max-width: 800px; margin: 0 auto; padding: 10px 15px; font-size: 0.9em; color: #555; margin-top: 20px; text-align: center; border-top: 1px solid #ddd;">
         <strong>Currently, I am not hiring interns.</strong> Due to the high volume of such inquiries, I am unable to respond individually to each request. Thank you for your understanding.
     </div>
+    {% endif %}
 
     <!-- Footer -->
     <div class="page__footer">
