@@ -45,7 +45,7 @@ author_profile: true
 
 <!-- ## Social Science -->
 ___
-* **Universal Basic Income for Developing Economies** ***(Job Market Paper)*** <br>
+* **Universal Basic Income for Developing Economies**<br>
 <button class="link-btn" onclick="toggleAbstract('abstract1')">[abstract]</button>
 <a href="https://kuldeepsingh-econ.github.io/files/JMP.pdf" target="_blank" rel="noopener">[pdf]</a> <a href="https://blogs.worldbank.org/impactevaluations/ubi-financing-and-its-long-term-impacts-economies-large-informal-sector-guest" target="_blank" rel="noopener"> [World Bank Blog] </a> <br>
 <div id="abstract1" style="display:none;">
@@ -54,7 +54,7 @@ Universal Basic Income has gained traction as an anti-poverty policy for develop
 
 * **Risky Business and the Process of Development** _(with Paco Buera, Jeremy Majerovitz, Yongseok Shin)_ <br>
 <button class="link-btn" onclick="toggleAbstract('abstract2')">[abstract]</button>
-<span>Updated draft coming soon!</span> <br>
+<br><span style="font-style:italic; color:#6c757d;">Updated draft coming soon!</span><br>
 <div id="abstract2" style="display:none;">
 Risk is an important factor that affects investment decisions, especially for undiversified entrepreneurs in less developed economies. Yet standard macro models of financial frictions do not incorporate risk: short-term returns are known in advance, and investment is fully reversible. Thus, even if entrepreneurs are risk averse and credit constrained, they will invest all of their assets in the firm, until the marginal product of capital equals the interest rate. As a result, standard models often find that productive entrepreneurs quickly save their way out of credit constraints, limiting the effect of financial frictions on output and aggregate productivity. We incorporate risk into a model of financial frictions, by making investment partially irreversible. Productive entrepreneurs accumulate capital substantially more slowly than in the first-best, leading to a reduction in aggregate productivity. Credit can play a role in undoing these frictions if firms have an option to default. Default creates a state-contingent contract, in which the entrepreneur repays if productivity stays high and defaults if productivity falls; this encourages investment and improves welfare through risk-sharing with the bank.
 </div>
