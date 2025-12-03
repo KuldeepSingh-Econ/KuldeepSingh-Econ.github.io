@@ -7,8 +7,7 @@ author_profile: true
 
 ## Instructor
 
-* **Introduction to Macroeconomics** _(Summer 2019)_ <br>
-
+* **Introduction to Macroeconomics** _(Summer 2019)_
 * **Intermediate Macroeconomics** _(Spring 2023)_ <br>
 
 ## Teaching Assistant
