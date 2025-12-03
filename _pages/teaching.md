@@ -17,7 +17,7 @@ author_profile: true
 
 ## Guest Lecturer
 
-* **Economic Growth (Graduate course)** _(Fall 2020, Fall 2021, Fall 2022)_<br>
+* **Economic Growth (Graduate course)** _(Fall 2020, Fall 2021, Fall 2022, Fall 2025)_<br>
 <span style="opacity: 0.7; font-style: italic;">Numerical Computation with Markov Chain Approximation Methods</span> <a href="https://github.com/KuldeepSingh-Econ/Markov-Chain-Method-Examples/blob/main/Markov_Chain_lecture.pdf" target="_blank" rel="noopener"> [slides] </a>
 
 
