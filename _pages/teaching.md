@@ -7,25 +7,26 @@ author_profile: true
 
 ## IIM Bangalore
 
-* <span style="color:#444;">Macroeconomics (MBA)</span> _(2025)_
-* <span style="color:#444;">Macroeconomics I (PhD)</span> _(2025)_ <br>
+* <span style="color:#444;">Macroeconomics (MBA)</span> <span style="color:#777;">(2025)</span>
+* <span style="color:#444;">Macroeconomics I (PhD)</span> <span style="color:#777;">(2025)</span> <br>
 
 ## Washington University in St. Louis
 
 ### Instructor
 
-* **Introduction to Macroeconomics** _(Summer 2019)_
-* **Intermediate Macroeconomics** _(Spring 2023)_ <br>
+* <span style="color:#444;">Introduction to Macroeconomics</span> <span style="color:#777;">(Summer 2019)</span>
+* <span style="color:#444;">Intermediate Macroeconomics</span> <span style="color:#777;">(Spring 2023)</span> <br>
 
 ### Teaching Assistant
 
-* **Graduate Macroeconomics** _(Fall 2018, Spring 2019)_
-* **Introduction to Macroeconomics** _(Fall 2019, Spring 2020)_
+* <span style="color:#444;">Graduate Macroeconomics</span> <span style="color:#777;">(Fall 2018, Spring 2019)</span>
+* <span style="color:#444;">Introduction to Macroeconomics</span> <span style="color:#777;">(Fall 2019, Spring 2020)</span>
 
 ### Guest Lecturer
 
-* **Economic Growth (Graduate course)** _(Fall 2020, Fall 2021, Fall 2022, Fall 2025)_<br>
-<span style="opacity: 0.7; font-style: italic;">Numerical Computation with Markov Chain Approximation Methods</span> <a href="https://github.com/KuldeepSingh-Econ/Markov-Chain-Method-Examples/blob/main/Markov_Chain_lecture.pdf" target="_blank" rel="noopener"> [slides] </a>
+* <span style="color:#444;">Economic Growth (Graduate course)</span> <span style="color:#777;">(Fall 2020, Fall 2021, Fall 2022, Fall 2025)</span><br>
+<span style="opacity: 0.7; font-style: italic;">Numerical Computation with Markov Chain Approximation Methods</span> 
+<a href="https://github.com/KuldeepSingh-Econ/Markov-Chain-Method-Examples/blob/main/Markov_Chain_lecture.pdf" target="_blank" rel="noopener"> [slides] </a>
 
 
 <!-- <style>
