@@ -7,6 +7,11 @@ author_profile: true
 
 ## Instructor
 
+### IIM Bangalore
+
+* **Macroeconomics (MBA)** _(2025)_
+* **Macroeconomics I (PhD)** _(2025)_
+
 ### Washington University in St. Louis
 
 * **Introduction to Macroeconomics** _(Summer 2019)_
