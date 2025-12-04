@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Economics at the [Indian Institute of Management Bangalore](https://www.iimb.ac.in/economics). I am a macroeconomist who focuses on issues related to developing economies. You can reach me at [kuldeep.singh@iimb.ac.in](mailto:kuldeep.singh@iimb.ac.in).
+I am an Assistant Professor of Economics at the [Indian Institute of Management Bangalore](https://www.iimb.ac.in/economics). I am a macroeconomist working on issues related to developing economies. You can reach me at [kuldeep.singh@iimb.ac.in](mailto:kuldeep.singh@iimb.ac.in).
 
 <!-- My research focuses on macroeconomics and macroeconomic development. -->
 
