@@ -7,8 +7,8 @@ author_profile: true
 
 ## IIM Bangalore
 
-* **Macroeconomics (MBA)** _(2025)_
-* **Macroeconomics I (PhD)** _(2025)_ <br>
+* <span style="color:#444;">Macroeconomics (MBA)</span> _(2025)_
+* <span style="color:#444;">Macroeconomics I (PhD)</span> _(2025)_ <br>
 
 ## Washington University in St. Louis
 
