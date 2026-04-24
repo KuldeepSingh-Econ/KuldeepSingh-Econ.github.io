@@ -45,6 +45,15 @@ author_profile: true
 
 <!-- ## Social Science -->
 ___
+
+* **Macroeconomics of Large-Scale Cash Transfers: Evidence from Malawi** <br>
+<button class="link-btn" onclick="toggleAbstract('abstract3')">[abstract]</button>
+<a href="https://raw.githubusercontent.com/KuldeepSingh-Econ/Macroeconomics-of-Large-Scale-Cash-Transfers/main/BSS_Malawi_2026.pdf" target="_blank" rel="noopener">[pdf]</a><br>
+
+<div id="abstract3" style="display:none;">
+What are the macroeconomic and distributional effects of large cash transfers when implemented at scale? We develop a two-region, small open economy heterogeneous-agent model with occupational choice, financial and real frictions, and mobility across regions. We discipline the model with baseline data from a new large-scale experiment in rural Malawi. A large-scale transfer has large, but temporary, aggregate effects on consumption and liquid assets, but a more persistent effect on productive capital and a modest impact on entrepreneurship. The consumption and entrepreneurship response is stronger for poor entrepreneurs, whereas the investment response is highest among rich entrepreneurs. The spillovers across regions are also heterogeneous: positive for workers and negative for rich entrepreneurs.
+</div>
+
 * **Universal Basic Income for Developing Economies**<br>
 <button class="link-btn" onclick="toggleAbstract('abstract1')">[abstract]</button>
 <a href="https://kuldeepsingh-econ.github.io/files/JMP.pdf" target="_blank" rel="noopener">[pdf]</a> <a href="https://blogs.worldbank.org/impactevaluations/ubi-financing-and-its-long-term-impacts-economies-large-informal-sector-guest" target="_blank" rel="noopener"> [World Bank Blog] </a> <br>
