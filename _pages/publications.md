@@ -46,7 +46,7 @@ author_profile: true
 <!-- ## Social Science -->
 ___
 
-* **The Macroeconomics of Large-Scale Cash Transfers** <br>
+* **The Macroeconomics of Large-Scale Cash Transfers** _(with Paco Buera & Yongseok Shin)_ <br>
 <button class="link-btn" onclick="toggleAbstract('abstract3')">[abstract]</button>
 <a href="https://github.com/KuldeepSingh-Econ/Macroeconomics-of-Large-Scale-Cash-Transfers/blob/main/BSS_Malawi_2026.pdf" target="_blank" rel="noopener">[pdf]</a><br>
 
