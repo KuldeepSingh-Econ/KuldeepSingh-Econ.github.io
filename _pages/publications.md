@@ -1,4 +1,4 @@
-<img width="468" height="226" alt="image" src="https://github.com/user-attachments/assets/e7e23e82-69ca-44af-93f3-87a64a5d4bc2" />---
+---
 layout: archive
 #title: "Publications"
 title: "Research"
@@ -51,7 +51,7 @@ ___
 <a href="https://github.com/KuldeepSingh-Econ/Macroeconomics-of-Large-Scale-Cash-Transfers/blob/main/BSS_Malawi_2026.pdf" target="_blank" rel="noopener">[pdf]</a><br>
 
 <div id="abstract3" style="display:none;">
-What are the macroeconomic and distributional effects of large cash transfers when implemented at scale? We develop a two-region, small open economy heterogeneous-agent model with occupational choice, financial and real frictions, and labor mobility across regions. We discipline the model with baseline data from a new large-scale experiment in rural Malawi. In the model, transfers generate a sharp increase in consumption and a more persistent expansion in productive expenditures, especially intermediate inputs. There is substantial heterogeneity within and across regions: lower-wealth households exhibit the largest consumption response, while wealthier entrepreneurs account for much of the expansion in capital and intermediate input use. Through general-equilibrium effects, workers in non-treated regions benefit, whereas entrepreneurs there are adversely affected. These effects gradually dissipate as the economy converges back to its pre-transfer equilibrium.
+What are the macroeconomic and distributional effects of large cash transfers when implemented at scale? We develop a two-region, small open economy heterogeneous-agent model with occupational choice, financial and real frictions, and mobility across regions. We discipline the model with baseline data from a new large-scale experiment in rural Malawi. A large-scale transfer has large, but temporary, aggregate effects on consumption and liquid assets, but a more persistent effect on productive capital and a modest impact on entrepreneurship. The consumption and entrepreneurship response is stronger for poor entrepreneurs, whereas the investment response is highest among rich entrepreneurs. The spillovers across regions are also heterogeneous: positive for workers and negative for rich entrepreneurs.
 </div>
 
 * **Universal Basic Income for Developing Economies**<br>
