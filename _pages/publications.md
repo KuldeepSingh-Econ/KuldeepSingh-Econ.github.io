@@ -47,6 +47,7 @@ author_profile: true
 ___
 
 * **Predicting the Effects of a Large-Scale Cash Transfer: Financial Frictions, Occupational Choice, and Local Labor Markets** _(with Paco Buera & Yongseok Shin)_ <br>
+<span style="color:red; font-style:italic;">Revise and Resubmit, Journal of Monetary Economics</span><br>
 <button class="link-btn" onclick="toggleAbstract('abstract3')">[abstract]</button>
 <a href="https://github.com/KuldeepSingh-Econ/Macroeconomics-of-Large-Scale-Cash-Transfers/blob/main/BSS_Malawi_2026.pdf" target="_blank" rel="noopener">[pdf]</a><br>
 
